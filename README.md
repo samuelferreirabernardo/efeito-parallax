@@ -1,1 +1,1 @@
-# efeito-parallax
+# efeito-parallax-estrutura
